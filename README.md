@@ -38,7 +38,6 @@ Lightweight apps demonstrating authentication, API usage, and database operation
 ### 🔹 Documentation Repos  
 Clear, structured documentation written for beginners and intermediate users.
 
-(You can pin the repos you want to highlight.)
 
 ---
 
