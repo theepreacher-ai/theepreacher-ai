@@ -53,6 +53,6 @@ Clear, structured documentation written for beginners and intermediate users.
 **Email:** kuriaf791@gmail.com  
 **GitHub:** `github.com/theepreacher-ai`
 **Twitter:** @insightsphere7
-**Phone:** +254797145871
+**Phone:** +254792091747
 
 Let’s connect and build something meaningful.
